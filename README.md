@@ -18,6 +18,7 @@ directory, find the duplicate, list them out, and then even allows you to delete
 - Clearly Follow the Instructions provided in the comments.
 
 ### Usage
+
 In Command Line Interface, Run the script using -
 
 `python image_finder.py <path of folder1, path  of folder2, .....>`
@@ -29,6 +30,7 @@ In Command Line Interface, Run the script using -
 >Comparisons are done with in the folder, and from Parent to Subsequent Folders.
 
 ## Dependencies
+
  1. python3
  2. keyboard
 
